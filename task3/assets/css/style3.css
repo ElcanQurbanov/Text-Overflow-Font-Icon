@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-image: url(/Practices/img/header-background.jpg);
+width: 100%;
+height: 800px;
+background-size: 100%;
+background-repeat: no-repeat;
+background-image: url("../img/header-background.jpg");
+
+
+
+}
+
+/* #header {
+    background-color: rgb(217, 209, 209);
+    
+} */
+
+#header ul{
+    list-style: none;
+    align-items: center;
+    
+    /* height: 80px; */
+    height: 33px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* margin-right: 330px;
+    margin-left: 213px; */
+    margin-right: 545px;
+    margin-left: 475px;
+     
+}
+
+#header li{
+    margin-left: 10px;
+    
+}
+
+#header li a{
+    text-decoration: none;
+    color: white;
+}
+
+#header .li-text1 a{
+    color: rgb(214, 123, 12);
+}
+
+#main .main-container{
+    /* width: 627px;
+    height: 206px; */
+
+    width: 798px;
+    height: 206px;
+    /* margin-left: 330px; */
+    margin: 0px auto;
+    /* margin-left: 407px; */
+    margin-top: 200px;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+.main-container .main-text1{
+    color: white;
+}
+
+.main-container .main-text2{
+    color: white;
+    padding: 20px;
+}
+
+
+.icons ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+    margin-left: 109px;
+    padding: 50px;
+    margin-right: 110px;
+    /* display: flex; */
+
+/* justify-content: space-between; */
+    /* text-align: center; */
+
+}
+ 
+.icons li a{
+ color: white;
+}

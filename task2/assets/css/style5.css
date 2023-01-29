@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.shadow{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    width: 440px;
+    height: 600px;
+    margin: 65px auto;
+}
+
+.text1{
+    /* width: 50px; */
+    width: 132px;
+    font-size: 85px;
+    /* margin: 20px auto; */
+    margin: -20px auto;
+    font-family: 'Brush Script MT', cursive;
+    padding-top: 35px;
+    /* padding-top: 50px; */
+
+}
+
+.wedding{
+    width: 277px;
+    /* width: 50px; */
+    font-size: 100px;
+    margin: 0 auto;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.of-text{
+    width: 68px;
+    font-size: 60px;
+    /* margin: 0 auto; */
+    margin: -20px auto;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.texts{
+    width: 250px;
+    margin: 0 auto;
+}
+
+.text2{
+    width: 330px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -31px;
+    padding-top: 25px;
+}
+
+.text3{
+    margin-top: 30px;
+    margin-left: 58px;
+    color: #777e7b;
+}
+
+.text4{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 34px;
+}
+
+pre{
+    font-size: 20px;
+}
+
+.text5{
+    margin-top: 30px;
+    margin-left: 55px;
+    font-size: 13px;
+    color: #777e7b;
+}
+
+.text6{
+    margin-top: 20px;
+    margin-left: 68px;
+    font-size: 13px;
+    color: #777e7b;
+}
+
+/* body {
+    font-family: 'Brush Script MT', cursive;
+  } */
